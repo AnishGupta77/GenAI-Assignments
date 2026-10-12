@@ -1,0 +1,54 @@
+
+Write test cases to search items in amazon.in
+Instruction    : 
+[STRICT] - Write only functional test cases
+[MANDATORY] - All positive and negative cases must be included
+[PRIORITY] - Highlight cases that is critical in nature and has potential to find defects. and fill the priority column as high,medium,low
+Context        : 
+Irrespective of user has account to login or not, it must be able to search items in the search box and get the results
+Example        : 
+Test case ID, Test Case Name/description, status, assigned to and priority columns required 
+Persona        : 
+You are a 10+ years experience tester with expertise in e-commerce testing
+Output Format  : 
+put the scenarios in tabular format
+Tone           : 
+scenario must follow ISTQB industry standard
+
+
+
+Write test cases to upload a file for a school record maintenance system
+Instruction    : 
+[STRICT] - Write only functional test cases
+[MANDATORY] - All positive and negative cases must be included
+[PRIORITY] - Highlight cases that is critical in nature and has potential to find defects. and fill the priority column as high , medium ,low
+Context        : 
+School students with registered id and password should be able to upload files in pdf and docx format and uploaded action successful/unsuccessful must be checked. Ensure that any malicious files are not uploaded like no other extension apart from .pdf and .doc is allowed however no performance or security test cases are required at this time.  
+Example        : 
+Test case ID, Test Case Name/description, status, assigned to and priority columns required 
+Persona        : 
+You are a 10+ years experience tester with expertise in e-commerce testing
+Output Format  : 
+put the scenarios in tabular format
+Tone           : 
+scenario must follow ISTQB industry standard
+
+
+Write test cases to add/remove/update items in the cart for e-commerce website.
+Instruction    : 
+[STRICT] - Write only functional test cases
+[MANDATORY] - All positive and negative cases must be included
+[PRIORITY] - Highlight cases that is critical in nature and has potential to find defects. and fill the priority column as high , medium ,low
+Context        : 
+user with valid login id and password or with valid mobile number which has been OTP verified can add/remove/update items in the cart, increase/decrease counts, can see total amount and apply any coupon/gift card, redeem points before calculating total amount. It must also handle out of stock scenario. 
+Example        : 
+Amazon.in features can be taken as baseline
+Test case ID, Test Case Name/description, status, assigned to and priority columns required 
+Persona        : 
+You are a 10+ years experience tester with expertise in e-commerce testing
+Output Format  : 
+put the scenarios in tabular format
+Tone           : 
+scenario must follow ISTQB industry standard
+
+
